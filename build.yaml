@@ -18,8 +18,5 @@
 #
 ---
 include:
-  - board: nice_nano
-    shield: boardsource3x4
-include:
   - board: nrfmicro_13
     shield: two_percent_milk

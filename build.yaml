@@ -9,7 +9,7 @@
 # shield: [ "corne_left", "corne_right" ]
 # include:
 #   - board: bdn9_rev2
-#   - board: nice_nano_v2
+#   - board: 
 #     shield: reviung41
 #   - board: nice_nano_v2
 #     shield: corne_left
@@ -18,5 +18,5 @@
 #
 ---
 include:
-  - board: nrfmicro_13
+  - board: nice_nano_v2
     shield: void9

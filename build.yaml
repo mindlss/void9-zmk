@@ -20,4 +20,4 @@
 include:
   - board: nice_nano
     shield: void9
-    cmake-args: -CONFIG_CLOCK_CONTROL_NRF_K32SRC_RC=y
+    cmake-args: -DCONFIG_ZMK_USB_LOGGING=y
